@@ -2,7 +2,7 @@
 Nonlinear Coupling of Kinetic Alfven Waves and ion acoustic waves in the inner heliosphere
 
 
-This is a Fortran program used to solve PDEs by pseudospectral method.
+This is a Fortran program used to solve modified Zakharov system of equations by pseudospectral method.
 Forward difference in time with predictor corrector method is used to calculate
 the next time steps. FFT in space coordinates is used.
 Dealiasing is applied using phase shift methods.
